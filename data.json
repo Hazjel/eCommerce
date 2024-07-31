@@ -1,0 +1,24 @@
+
+{
+    "productCategories":[
+    {
+        "id": 1,
+        "name": "Smartphone"
+    },
+
+    {
+        "id": 2,
+        "name": "Laptops"
+    },
+
+    {
+        "id": 3,
+        "name": "Tab"
+    },
+
+    {
+        "id": 4,
+        "name": "Accessories"
+    }
+    ]
+}
