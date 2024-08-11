@@ -3,13 +3,13 @@
         {
             "id": 1,
             "name": "Smartphone",
-            "link": "/smartphone",
+            "link": "/src/pages/smartphone.html",
             "image": "https://www.bhinneka.com/blog/wp-content/uploads/2022/09/hp-iphone-14-pro-max-terbaru-2023.jpg"
         },
         {
             "id": 2,
             "name": "Laptops",
-            "link": "/laptop",
+            "link": "/src/pages/laptop.html",
             "image": "https://www.bhinneka.com/blog/wp-content/uploads/2022/09/hp-iphone-14-pro-max-terbaru-2023.jpg"
         },
         {
@@ -21,7 +21,7 @@
         {
             "id": 4,
             "name": "Accessories",
-            "link": "/accessories",
+            "link": "/src/pages/accessories.html",
             "image": "https://www.bhinneka.com/blog/wp-content/uploads/2022/09/hp-iphone-14-pro-max-terbaru-2023.jpg"
         }
     ]
