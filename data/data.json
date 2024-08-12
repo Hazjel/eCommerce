@@ -2,20 +2,20 @@
     "productCategories": [
         {
             "id": 1,
-            "name": "Smartphone",
-            "link": "/src/pages/smartphone.html",
+            "name": "Smartphones",
+            "link": "/src/pages/smartphones.html",
             "image": "https://www.bhinneka.com/blog/wp-content/uploads/2022/09/hp-iphone-14-pro-max-terbaru-2023.jpg"
         },
         {
             "id": 2,
             "name": "Laptops",
-            "link": "/src/pages/laptop.html",
+            "link": "/src/pages/laptops.html",
             "image": "https://www.bhinneka.com/blog/wp-content/uploads/2022/09/hp-iphone-14-pro-max-terbaru-2023.jpg"
         },
         {
             "id": 3,
-            "name": "Tab",
-            "link": "/src/pages/tab.html",
+            "name": "Tabs",
+            "link": "/src/pages/tabs.html",
             "image": "https://www.bhinneka.com/blog/wp-content/uploads/2022/09/hp-iphone-14-pro-max-terbaru-2023.jpg"
         },
         {
