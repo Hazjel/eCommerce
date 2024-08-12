@@ -24,5 +24,30 @@
             "link": "/src/pages/accessories.html",
             "image": "https://www.bhinneka.com/blog/wp-content/uploads/2022/09/hp-iphone-14-pro-max-terbaru-2023.jpg"
         }
-    ]
-}
+    ],
+
+    "Smartphones": {
+        "products": [
+            {
+                "id": 1,
+                "name": "Samsung Galaxy S24",
+                "price": 999,
+                "image": "https://images.samsung.com/is/image/samsung/p6pim/id/2401/gallery/id-galaxy-s24-s928-sm-s928bztqxid-thumb-539319761"
+            },
+            {
+                "id": 2,
+                "name": "Samsung Galaxy S24 Ultra",
+                "price": 1299,
+                "image": "https://images.samsung.com/is/image/samsung/p6pim/id/2401/gallery/id-galaxy-s24-s928-sm-s928bztqxid-thumb-539319761"
+            },
+            {
+                "id": 3,
+                "name": "Samsung Galaxy S24 Plus",
+                "price": 1099,
+                "image": "https://images.samsung.com/is/image/samsung/p6pim/id/2401/gallery/id-galaxy-s24-s928-sm-s928bztqxid-thumb-539319761"
+            }
+        ]
+    }
+    }
+
+
